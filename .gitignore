@@ -13,6 +13,3 @@ coverage/
 # JetBrains
 
 .idea/*
-
-# Build
-/dist
